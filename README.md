@@ -48,16 +48,6 @@ source ~/.bashrc
 
 ---
 
-## ✅ 4. Verificar o UUID
-
-```bash
-sudo blkid /dev/<partição>
-```
-
-Anote o valor do `UUID`.
-
----
-
 ## ✅ Pronto!
 
 O mapeamento foi feito corretamente. Se necessário, reinicie e boa diversão!
