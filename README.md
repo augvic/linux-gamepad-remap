@@ -12,6 +12,8 @@ sudo dnf install antimicrox
 
 Ou baixe as versões ".rpm" e "flatpack" da loja. 
 
+Importante: reinicie o sistema.
+
 ---
 
 ## ✅ 2. Dentro do AntiMicroX
